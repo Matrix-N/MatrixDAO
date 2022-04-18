@@ -17,3 +17,5 @@ all in web3?
 - discard junk projects quickly
 
 ## How can do this
+- believe that anyone can start a business
+- entrepreneurs can get quick funding by crowdfunding or selling their ideas
