@@ -27,3 +27,5 @@ all in web3?
 - token
 - social
 
+
+error
